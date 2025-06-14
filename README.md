@@ -1,3 +1,5 @@
+# Render Cycle
+
 The **render cycle** happens *after* JS execution and before the browser paints the frame.
 Every time you change something on the page — like move a box, change a color, or type in a form — the browser **"renders"** (draws) the new screen. That drawing process is called the **Render Cycle**.
 
